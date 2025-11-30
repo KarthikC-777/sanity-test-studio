@@ -12,7 +12,6 @@ export default defineCliConfig({
      * Learn more at https://www.sanity.io/docs/cli#auto-updates
      */
     autoUpdates: true,
-    appId:"pykfruo7knhoz2pfnpv6824i"
   },
   app:{
     id:"pykfruo7knhoz2pfnpv6824i",
